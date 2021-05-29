@@ -7,7 +7,7 @@ var mapenvvar = document.getElementById("mapenvid").getAttribute("name");
 
 if (location.hostname === "127.0.0.1"){
   var accessTokenvar = API_KEY
-} else if (webpageurl == "https://green-team-wine.herokuapp.com/" || "http://green-team-wine.herokuapp.com/") {
+} else if (webpageurl == "https://growmywine.herokuapp.com/" || "http://growmywine.herokuapp.com/") {
   var accessTokenvar = mapenvvar;
 }
 

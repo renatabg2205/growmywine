@@ -12,7 +12,7 @@ if (location.hostname === "127.0.0.1") {
     s1.async = true;
     s1.src = '../static/js/leafletmap.js';
     h1.appendChild(s1);
-} else if (webpageurl == "https://green-team-wine.herokuapp.com/" || "http://green-team-wine.herokuapp.com/") {
+} else if (webpageurl == "https://growmywine.herokuapp.com/" || "http://growmywine.herokuapp.com/") {
     var d1 = document, h1 = d1.getElementsByTagName('head')[0], s1 = d1.createElement('script');
     s1.type = 'text/javascript';
     s1.async = true;
