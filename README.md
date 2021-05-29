@@ -1,7 +1,12 @@
 # growmywine
 
 # Green Team Final Project
-![Katie Fell](https://github.com/katief01), ![Andrew Carr](https://github.com/davidandcarr), ![Renata Barbalat](https://github.com/secicciari), and ![Sam Cicciari](https://github.com/secicciari)
+
+### Team members:
+[Renata Barbalat](https://github.com/renatabg2205)
+[Andrew Carr](https://github.com/davidandcarr)
+[Katie Fell](https://github.com/katief01)
+[Sam Cicciari](https://github.com/secicciari)
 
 ## Project overview
 ### Topic
