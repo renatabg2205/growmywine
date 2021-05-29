@@ -3,10 +3,10 @@
 # Green Team Final Project
 
 ### Team members:
-- [Renata Barbalat](https://github.com/renatabg2205)
-- [Andrew Carr](https://github.com/davidandcarr)
-- [Katie Fell](https://github.com/katief01)
-- [Sam Cicciari](https://github.com/secicciari)
+-[Renata Barbalat](https://github.com/renatabg2205)
+-[Andrew Carr](https://github.com/davidandcarr)
+-[Sam Cicciari](https://github.com/secicciari)
+-[Katie Fell](https://github.com/katief01)
 
 ## Project overview
 ### Topic
