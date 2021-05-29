@@ -71,8 +71,6 @@ For our database we are using Postgres SQL hosted in AWS RDS. Our database will 
 ### Website
 [Link to our website](https://growmywine.herokuapp.com/)
 
-![Website](Images/website.PNG)
-
 ![Website](Images/website_williamson.PNG)
 
 #### Interactive Elements
