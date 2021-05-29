@@ -150,7 +150,7 @@ d3.json('../static/sorted_data/mktwo/savyb_sums.json').then(function(data){
   };
   var plot = [trace];
   var layout = {
-    title: "Sauvignon Blanc 86% Accuracy",
+    title: "Sauvignon Blanc - 86% Accuracy",
     font:{
       family: 'Raleway, sans-serif'
     },
