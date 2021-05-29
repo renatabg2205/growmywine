@@ -71,5 +71,8 @@ For our database we are using Postgres SQL hosted in AWS RDS. Our database will 
 ### Website
 [Link to our website](https://growmywine.herokuapp.com/)
 
+![Website](Images/website.PNG)
+
+
 #### Interactive Elements
 - Users can select the type of wine they're interested in from a drop down and the map will update to indicate areas where that wine grows well.
