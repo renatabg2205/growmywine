@@ -73,7 +73,7 @@ For our database we are using Postgres SQL hosted in AWS RDS. Our database will 
 
 ![Website](Images/website.PNG)
 
-![Website](Images/website_.PNG)
+![Website](Images/website_williamson.PNG)
 
 #### Interactive Elements
 - Users can select the type of wine they're interested in from a drop down and the map will update to indicate areas where that wine grows well.
